@@ -19,4 +19,4 @@ for num in range(1, 100000):
 
 fin = time.time()  # Tiempo final
 
-print("Tiempo de ejecucion:", fin - inicio, "segundos")
+print("Tiempo de Ejecucion:", fin - inicio, "segundos")
