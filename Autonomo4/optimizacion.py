@@ -17,4 +17,4 @@ primos = [num for num in range(1, 100000) if es_primo_rapido(num)]
 
 fin = time.time()
 
-print("Tiempo de optimizacion:", fin - inicio, "segundos")
+print("Tiempo de Optimizacion:", fin - inicio, "segundos")
